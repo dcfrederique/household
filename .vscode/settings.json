@@ -2,7 +2,5 @@
     "appService.zipIgnorePattern": [
         "node_modules{,/**}",
         ".vscode{,/**}"
-    ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/bcaebc03-681c-412b-a388-73dab762adf0/resourceGroups/cookbook/providers/Microsoft.Web/sites/test-cookbookapp",
-    "appService.deploySubpath": "dist/household"
+    ]
 }
